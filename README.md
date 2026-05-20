@@ -66,6 +66,13 @@ Docker support
 MCP protocol compatibility
 Streaming responses
 
+## Roadmap
+
+- GitHub API integration
+- Authentication layer
+- Docker deployment
+- Real MCP protocol support
+
 ## Author
 
 Angelo Sorte - Computer Engineer focused on AI systems, backend engineering and ethical technology.
